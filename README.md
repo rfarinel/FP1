@@ -89,6 +89,4 @@ VALUES ('foo',0,0,0,0,0,0,0,0,0,0);")
 
 * at least one diagram or figure showing your work
 
-!
-
-[Screenshot](FP1/diagram.png)
+![db diagram](/testimage.png?raw=true "db diagram")
