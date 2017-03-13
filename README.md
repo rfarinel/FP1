@@ -91,4 +91,4 @@ VALUES ('foo',0,0,0,0,0,0,0,0,0,0);")
 
 !
 
-[Screenshot](https://github.com/rfarinel/FP1/blob/master/diagram.png)
+[Screenshot](FP1/diagram.png)
