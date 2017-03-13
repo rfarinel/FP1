@@ -88,6 +88,7 @@ VALUES ('foo',0,0,0,0,0,0,0,0,0,0);")
 
 
 * at least one diagram or figure showing your work
+
 !
 
-[Screenshot](diagram.png)
+[Screenshot](https://github.com/rfarinel/FP1/blob/master/diagram.png)
